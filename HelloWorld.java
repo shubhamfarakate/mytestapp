@@ -3,11 +3,10 @@ public class HelloWorld{
         System.out.println("Hello World from app ");
         System.out.println("Added anaother line");
         System.out.println("Added anaother line");
-                System.out.println("Added anaother line");
-
         System.out.println("Added anaother line");
-
         System.out.println("Added anaother line");
+        System.out.println("Added anaother line");
+        System.out.println("Added a line");
 
 
     }
